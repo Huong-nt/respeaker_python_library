@@ -73,7 +73,7 @@ setup(
     # installed, specify them here.  If using Python 2.6 or less, then these
     # have to be included in MANIFEST.in as well.
     package_data={
-        'respeaker': ['pocketsphinx-data/dictionary.txt', 'pocketsphinx-data/keywords.txt', 'pocketsphinx-data/hmm/*'],
+        'respeaker': [],
     },
 
     # To provide executable scripts, use entry points in preference to the

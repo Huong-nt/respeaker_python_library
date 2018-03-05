@@ -1,4 +1,2 @@
-pocketsphinx
 pyaudio
-webrtcvad
 requests
